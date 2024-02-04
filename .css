@@ -1,0 +1,51 @@
+*body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    box-shadow: 10 10px 20px rgb(248, 142, 4);
+  }
+  h1 {
+    text-align: center;
+    color: rgb(253, 252, 251);
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    margin-top: 0%;
+    border: 2px rgb(199, 206, 158) solid;
+    border-radius: 20px;
+  }
+  #box {
+    border: 1px rgb(199, 171, 183) solid;
+    padding: 20px;
+    width: 400px;
+    margin: 20px;
+    background: linear-gradient(to bottom, orange, black);
+  
+    border-radius: 20px;
+    color: white;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  p {
+    font-size: medium;
+    font-style: normal;
+    text-align: center;
+    margin-top: 0%;
+  }
+  #tiger1 {
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+    margin-bottom: 0%;
+  }
+  #traits {
+    border: 2px rgb(199, 171, 183) solid;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: medium;
+    text-align: start;
+    list-style: none;
+  }
+  li strong {
+    color: antiquewhite;
+  }
+  
